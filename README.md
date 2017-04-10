@@ -1,5 +1,6 @@
 #test
 test em ere
-
-
-vhhjk;jhgg
+ cd Documents/git/test/
+ 
+ 
+ 
